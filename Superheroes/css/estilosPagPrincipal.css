@@ -1,0 +1,16 @@
+.card {
+    width: 200px;
+    margin: 10px;
+  }
+  
+  #superheroes-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  body {
+    background-image: url("../Imagenes/marvelDc.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }

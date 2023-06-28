@@ -1,0 +1,35 @@
+{
+"personajes":[
+    {
+        "id": 3,
+        "nombre": "super1",
+        "alias": "1",
+        "editorial": "marvel",
+        "fuerza": "1",
+        "arma": "Espada"
+    },
+    {
+        "id": 4,
+        "nombre": "super2",
+        "alias": "2",
+        "editorial": "DC",
+        "fuerza": "2",
+        "arma": "Arco"
+    },
+    {
+        "id": 5,
+        "nombre": "super3",
+        "alias": "3",
+        "editorial": "marvel",
+        "fuerza": "3",
+        "arma": "Martillo"
+    },
+    {
+        "id": 1,
+        "nombre": "super4",
+        "alias": "4",
+        "editorial": "marvel",
+        "fuerza": "4",
+        "arma": "Espada"
+    }
+]}
